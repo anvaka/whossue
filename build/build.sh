@@ -1,0 +1,1 @@
+node ./build.js > ../dist/whossue.js
